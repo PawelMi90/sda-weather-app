@@ -38,16 +38,19 @@ public class UserInterface {
     private void getAllLocalizations() {
         // GET: /entry do serwera
         // wyświetla lokalizacje
+        //todo
     }
 
     private void createEntry() {
         // POST: /entry do serwera
         // dodanie lokalizacji
+        //todo
     }
 
     private void getEntry() {
         // GET: /entry do serwera
         // pobranie rekordu
+        //todo
     }
 
 }
