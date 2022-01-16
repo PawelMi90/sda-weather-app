@@ -1,10 +1,7 @@
 package com.sda.weather.frontend;
 
-import lombok.RequiredArgsConstructor;
-
 import java.util.Scanner;
 
-@RequiredArgsConstructor
 public class UserInterface {
 
     public void run() {
